@@ -6,8 +6,22 @@
 
 ## 🚀 Projects
 
-* Tic Tac Toe
-* Rock Paper Scissors
+🎮 Tic Tac Toe Game
+
+✂️ Rock Paper Scissors Game
+
+🌐 Personal Portfolio Website
+
+🎨 Advanced Drawing App
+
+🧮 Calculator App
+
+🔐 Modern Login Page
+
+💻 Mini Code Editor
+
+🛒 Amazon Clone
+
 
 ## 🛠 Skills
 
