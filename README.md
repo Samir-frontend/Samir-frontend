@@ -22,6 +22,8 @@
 
 🛒 Amazon Clone
 
+⌨️ Typing Speed Tester Game
+
 
 ## 🛠 Skills
 
