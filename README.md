@@ -36,28 +36,31 @@
 
 ```javascript
 const samir = {
-  name:       "Samir Sheikh",
-  location:   "Rawatbhata, Rajasthan 🇮🇳",
-  role:       "Front-End Developer",
-  education:  "B.Tech CSE — Modi Institute of Technology, Kota",
-  started:    2025,
-  email:      "samirshiekh0808@gmail.com",
-  portfolio:  "https://samir-frontend.github.io/Personal-Portfolio/",
+  name:          "Samir Sheikh",
+  location:      "Rawatbhata, Rajasthan 🇮🇳",
+  role:          "Front-End Developer",
+  education:     "B.Tech CSE — Modi Institute of Technology, Kota",
+  started:       2025,
+  email:         "samirshiekh0808@gmail.com",
+  portfolio:     "https://samir-frontend.github.io/Personal-Portfolio/",
 
-  skills:     ["HTML", "CSS", "JavaScript", "React (Basic)"],
-  learning:   ["React.js", "Tailwind CSS", "Git & GitHub"],
-  available:  true,  // Open for Internships & Freelance
+  skills:        ["HTML", "CSS", "JavaScript", "React (Basic)"],
+  learning:      ["React.js", "Tailwind CSS", "Git & GitHub"],
+  projects:      13,
+  contributions: 119,
+  internships:   4,
+  available:     true,  // Open for Internships & Freelance
 };
 ```
 
 <br/>
 
 - 🎓 **B.Tech CSE** Student at Modi Institute of Technology, Kota
-- 💼 Completed **4 internships** — TechNova, Saiket Systems, AtomProd, Sysslan IT
-- 🌐 Built **10+ projects** using HTML, CSS & JavaScript
+- 💼 Completed **4 Internships** — TechNova, Saiket Systems, AtomProd, Sysslan IT
+- 🌐 Built **13 Projects** & made **119 contributions** on GitHub
 - 🎯 Goal: Master **React.js** and become a complete Front-End Dev
 - 📍 From **Rawatbhata, Rajasthan** with ❤️
-- ⚡ Fun fact: I started coding in **2025** and already shipped 10+ projects!
+- ⚡ Fun fact: I started coding in **2025** and already shipped **13 projects!**
 
 <br clear="right"/>
 
@@ -78,7 +81,6 @@ const samir = {
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Skill Level
 ```
@@ -112,6 +114,16 @@ React (Basic) ██████████░░░░░░░░░░   50%
 <tr>
 <td width="50%">
 
+### 🌐 [Personal Portfolio](https://samir-frontend.github.io/Personal-Portfolio/)
+> My personal portfolio website — fully responsive, built with pure HTML, CSS & JS.
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%">
+
 ### ⌨️ [Typing Speed Tester](https://samir-frontend.github.io/Typing-Speed-Tester-Game/)
 > Real-time WPM & accuracy tracker with interactive responsive UI.
 
@@ -120,6 +132,8 @@ React (Basic) ██████████░░░░░░░░░░   50%
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🛒 [Amazon Clone](https://samir-frontend.github.io/amazon-clone/)
@@ -129,8 +143,6 @@ React (Basic) ██████████░░░░░░░░░░   50%
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🎟️ [Event Ticket Booking System](https://samir-frontend.github.io/Event-Ticket-Booking-system/)
@@ -141,6 +153,8 @@ React (Basic) ██████████░░░░░░░░░░   50%
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 💻 [Mini Code Editor](https://samir-frontend.github.io/mini-code-editor/)
@@ -151,8 +165,6 @@ React (Basic) ██████████░░░░░░░░░░   50%
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🎮 [Rock Paper Scissors](https://samir-frontend.github.io/Rock-Paper-Scissor/)
@@ -163,10 +175,22 @@ React (Basic) ██████████░░░░░░░░░░   50%
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### ✅ [To-Do List App](https://samir-frontend.github.io/To-Do-App/)
 > Task manager with priority system, filters & localStorage support.
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%">
+
+### 🧠 [Quiz App](https://samir-frontend.github.io/Quiz-App/)
+> Web dev quiz with score tracking, progress bar and result screen.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -217,11 +241,7 @@ React (Basic) ██████████░░░░░░░░░░   50%
 
 <br/>
 
-**📍 Rawatbhata, Rajasthan, India**
-&nbsp;|&nbsp;
-**📧 samirshiekh0808@gmail.com**
-&nbsp;|&nbsp;
-**🌐 [Portfolio](https://samir-frontend.github.io/Personal-Portfolio/)**
+**📍 Rawatbhata, Rajasthan, India** &nbsp;|&nbsp; **📧 samirshiekh0808@gmail.com** &nbsp;|&nbsp; **🌐 [Portfolio](https://samir-frontend.github.io/Personal-Portfolio/)**
 
 <br/>
 
@@ -243,9 +263,9 @@ React (Basic) ██████████░░░░░░░░░░   50%
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-**⭐ You like my work Then Please Give Me one Star!**
+**⭐ You Like My Work then Pleae Give ME One Star!**
 <br/>
-*Made with ❤️ by Samir Sheikh from Rawatbhata, Rajasthan*
+*Made with ❤️ by Samir Sheikh — Rawatbhata, Rajasthan*
 
 </div>
 
