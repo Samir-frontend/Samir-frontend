@@ -263,7 +263,7 @@ React (Basic) ██████████░░░░░░░░░░   50%
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-**⭐ You Like My Work then Pleae Give ME One Star!**
+**⭐ You Like My Work then Please Give ME One Star!**
 <br/>
 *Made with ❤️ by Samir Sheikh — Rawatbhata, Rajasthan*
 
