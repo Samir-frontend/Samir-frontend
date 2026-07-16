@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Samir%20Sheikh%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Front-End%20Developer%20%E2%80%A2%20HTML%20%7C%20CSS%20%7C%20JavaScript%20%E2%80%A2%20Rawatbhata%2C%20Rajasthan&descSize=16&descAlignY=62" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=700&lines=Front-End+Developer+%F0%9F%9A%80;Building+beautiful+websites+%E2%9C%A8;HTML+%7C+CSS+%7C+JavaScript+%F0%9F%92%BB;Turning+ideas+into+real+web+experiences+%F0%9F%8C%90;Passionate+about+UI+%26+UX+Design+%F0%9F%8E%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=750&lines=Front-End+Developer+%F0%9F%9A%80;Building+beautiful+websites+%E2%9C%A8;HTML+%7C+CSS+%7C+JavaScript+%F0%9F%92%BB;Turning+ideas+into+real+web+experiences+%F0%9F%8C%90;Passionate+about+UI+%26+UX+Design+%F0%9F%8E%A8;13%2B+Projects+%7C+4+Internships+%7C+2nd+Year+BTech+%F0%9F%8E%93;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/github/followers/Samir-frontend?label=Followers&style=flat-square&color=6E57F7"/>
 <img src="https://img.shields.io/badge/Projects-13+-6E57F7?style=flat-square"/>
 <img src="https://img.shields.io/badge/Internships-4-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Freelance-00C853?style=flat-square"/>
 
 </div>
 
@@ -38,69 +39,90 @@
 
 ```javascript
 const samir = {
-  name:       "Samir Sheikh",
-  location:   "Rawatbhata, Rajasthan 🇮🇳",
-  role:       "Front-End Developer",
-  education:  "B.Tech CSE — Modi Institute of Technology, Kota (2025–2029)",
-  year:       "2nd Year",
-  email:      "samirshiekh0808@gmail.com",
-  portfolio:  "https://samir-frontend.github.io/Personal-Portfolio/",
+  name:        "Samir Sheikh",
+  location:    "Rawatbhata, Rajasthan 🇮🇳",
+  role:        "Front-End Developer",
+  education:   "B.Tech CSE — Modi Institute of Technology, Kota (2025–2029)",
+  year:        "2nd Year",
+  email:       "samirshiekh0808@gmail.com",
+  portfolio:   "https://samir-frontend.github.io/Personal-Portfolio/",
+  linkedin:    "linkedin.com/in/samir-sheikh-frontend",
+  github:      "github.com/Samir-frontend",
 
-  skills:     ["HTML5", "CSS3", "JavaScript", "Git", "GitHub", "Figma"],
-  learning:   ["React.js", "Tailwind CSS", "Node.js"],
-  projects:   13,
+  skills:      ["HTML5", "CSS3", "JavaScript", "Git", "GitHub", "Figma"],
+  learning:    ["React.js", "Tailwind CSS", "Node.js"],
+  interests:   ["UI Design", "Web Animation", "Open Source", "Freelancing"],
+
+  projects:    13,
   internships: 4,
-  available:  true,  // Open for Internships & Freelance 🚀
+  cgpa:        "8+",
+  available:   true,   // 🚀 Open for Internships & Freelance
 };
 ```
 
 <br/>
 
-I'm a **Front-End Developer** and **B.Tech CSE student** from Rawatbhata, Rajasthan, passionate about building clean, responsive, and visually rich web experiences. I started my coding journey in **2025** and within just one year, I've shipped **13 projects** ranging from a full **5-star Hotel Booking System** to a **Job Portal**, **LMS**, **ERP System**, and a **Smart Clock** — all built with pure HTML, CSS & JavaScript.
+I'm a **Front-End Developer** and **B.Tech CSE student** from Rawatbhata, Rajasthan, passionate about building clean, responsive, and visually rich web experiences. I started my coding journey in **2025** and within just one year, I've shipped **13 projects** — ranging from a full **5-star Hotel Booking System** and a **Job Portal** to an **ERP System**, **LMS**, **Music Player**, and a **Smart Clock with Canvas API** — all built with pure HTML, CSS & JavaScript.
 
-I've completed **4 internships** at TechNova, Saiket Systems, Sysslan IT Solutions, and currently interning at **AtomProd (July–October 2026)**. I believe in learning by building — every project I take on pushes me to solve real-world UI challenges and grow as a developer. My goal is to master **React.js**, deepen my JavaScript skills, and eventually become a well-rounded **Full-Stack Developer**.
+I've completed **4 internships** at TechNova, Saiket Systems, Sysslan IT Solutions, and I'm currently interning at **AtomProd (July – October 2026)** as a Frontend Developer Intern. I believe in **learning by building** — every project I take on pushes me to solve real-world UI challenges and level up as a developer.
 
-When I'm not coding, I'm exploring new UI designs, building side projects, or finding ways to make the web more beautiful. 🌐
+My goal is to master **React.js**, deepen my JavaScript skills, and grow into a **complete Full-Stack Developer**. When I'm not coding, I'm exploring new UI designs, building side projects, or finding ways to make the web more beautiful. 🌐
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Skills
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### 💻 Languages & Technologies
+### 💻 Languages
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### 🎨 Design & UI
+### 🎨 Design & UI Skills
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![CSS Animations](https://img.shields.io/badge/CSS%20Animations-FF69B4?style=for-the-badge&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-6E57F7?style=for-the-badge&logoColor=white)
-![Flexbox](https://img.shields.io/badge/Flexbox%20%26%20Grid-1572B6?style=for-the-badge&logoColor=white)
+![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge&logoColor=white)
+![CSS Grid](https://img.shields.io/badge/CSS%20Grid-FF6B6B?style=for-the-badge&logoColor=white)
+![Glassmorphism](https://img.shields.io/badge/Glassmorphism-00C9FF?style=for-the-badge&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### 🌐 Browser & Web APIs
+![DOM API](https://img.shields.io/badge/DOM%20API-6E57F7?style=for-the-badge&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas%20API-FF6B6B?style=for-the-badge&logoColor=white)
+![Web Audio API](https://img.shields.io/badge/Web%20Audio%20API-00C853?style=for-the-badge&logoColor=white)
+![LocalStorage](https://img.shields.io/badge/LocalStorage-F7DF1E?style=for-the-badge&logoColor=black)
+![Fetch API](https://img.shields.io/badge/Fetch%20API-20BEFF?style=for-the-badge&logoColor=white)
+![HTML5 Video](https://img.shields.io/badge/HTML5%20Video%20API-E34F26?style=for-the-badge&logoColor=white)
 
 ### 📚 Currently Learning
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 📊 Skill Progress
 ```
-HTML5         ████████████████████  90%
-CSS3          ███████████████████░  88%
-JavaScript    ██████████████░░░░░░  70%
-Git & GitHub  ████████████████░░░░  78%
-Figma         ████████████░░░░░░░░  60%
-React (Basic) ██████████░░░░░░░░░░  50%
+HTML5              ████████████████████  90%
+CSS3               ███████████████████░  88%
+JavaScript         ██████████████░░░░░░  70%
+Git & GitHub       ████████████████░░░░  78%
+Responsive Design  ████████████████████  90%
+CSS Animations     ██████████████████░░  85%
+Figma              ████████████░░░░░░░░  60%
+React (Learning)   ██████████░░░░░░░░░░  50%
 ```
 
 </div>
@@ -118,7 +140,9 @@ React (Basic) ██████████░░░░░░░░░░  50%
   <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=Samir-frontend&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E57F7&ring=6E57F7&fire=FF6B6B&currStreakLabel=6E57F7"/>
 </div>
 
-<br/>
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samir-frontend&theme=tokyo-night&bg_color=0D1117&color=6E57F7&line=6E57F7&point=FF6B6B&hide_border=true&area=true&area_color=6E57F7"/>
@@ -173,8 +197,8 @@ React (Basic) ██████████░░░░░░░░░░  50%
 </td>
 <td width="50%">
 
-### 🎵 [Aurea Music Player](https://samir-frontend.github.io/Aurea-Premium-Music-Player/)
-> Premium Spotify-inspired music player — Library, Search, Liked, Favorites & smooth UI.
+### 🎵 [Aurea Premium Music Player](https://samir-frontend.github.io/Aurea-Premium-Music-Player/)
+> Spotify-inspired music player — Sidebar, Library, Search, Liked Songs & Favorites.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -186,7 +210,7 @@ React (Basic) ██████████░░░░░░░░░░  50%
 <td width="50%">
 
 ### 🕐 [Smart Clock](https://samir-frontend.github.io/smart-clock/)
-> Concentric ring clock — rotating date, month & day rings with smooth analog hands. Canvas API.
+> 3 concentric rotating rings — live date, month & day + smooth analog hands. Canvas API.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -196,7 +220,7 @@ React (Basic) ██████████░░░░░░░░░░  50%
 <td width="50%">
 
 ### 💰 [FinTrack Expense Tracker](https://samir-frontend.github.io/FinTrack-Expense-Tracker/)
-> Financial dashboard — income/expense tracking, charts, filters & localStorage persistence.
+> Financial dashboard — income/expense tracking, charts, filters & localStorage.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -208,7 +232,7 @@ React (Basic) ██████████░░░░░░░░░░  50%
 <td width="50%">
 
 ### 🎓 [LearnPro LMS](https://samir-frontend.github.io/LearnPro-Learning-Management-System/)
-> Udemy-inspired Learning Management System — courses, dashboard, video preview & pricing plans.
+> Udemy-inspired LMS — courses, dashboard, video preview & pricing plans.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -217,8 +241,8 @@ React (Basic) ██████████░░░░░░░░░░  50%
 </td>
 <td width="50%">
 
-### 🖼️ [Image Gallery](https://samir-frontend.github.io/Image-Gallery/)
-> Category filter gallery with lightbox viewer, autoplay slideshow & keyboard navigation.
+### 🖼️ [Advanced Image Gallery](https://samir-frontend.github.io/Image-Gallery/)
+> Category filter, lightbox viewer, autoplay slideshow & keyboard navigation.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -226,9 +250,52 @@ React (Basic) ██████████░░░░░░░░░░  50%
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### ⌨️ [Typing Speed Tester](https://samir-frontend.github.io/Typing-Speed-Tester-Game/)
+> Real-time WPM & accuracy tracker with live timer and responsive UI.
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%">
+
+### 💻 [Mini Code Editor](https://samir-frontend.github.io/mini-code-editor/)
+> VS Code-style in-browser code editor with real-time HTML/CSS/JS output preview.
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎟️ [Event Ticket Booking System](https://samir-frontend.github.io/Event-Ticket-Booking-system/)
+> Fully responsive ticket booking — built during Sysslan IT internship.
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%">
+
+### 🛒 [Amazon Clone](https://samir-frontend.github.io/amazon-clone/)
+> Pixel-perfect Amazon homepage clone — fully responsive with pure HTML & CSS.
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
 </table>
 
-▶ **[View All Projects on Portfolio →](https://samir-frontend.github.io/Personal-Portfolio/)**
+▶ **[View All 13 Projects on Portfolio →](https://samir-frontend.github.io/Personal-Portfolio/)**
 
 </div>
 
@@ -238,17 +305,18 @@ React (Basic) ██████████░░░░░░░░░░  50%
 
 ```
 📌 Internships:
-   ├── 🏢  Sysslan IT Solutions              — 2026 (1 Month)
+   ├── 🏢  Sysslan IT Solutions              — 2026  (1 Month)
    │        Event Ticket Booking System, Responsive Web Pages
    │
-   ├── 🏢  Saiket Systems                    — 2026 (1 Month)
+   ├── 🏢  Saiket Systems                    — 2026  (1 Month)
    │        Quiz App, To-Do List, Product Cards, Responsive Layouts
    │
-   ├── 🏢  TechNova                          — 2026 (1 Month)
+   ├── 🏢  TechNova                          — 2026  (1 Month)
    │        Landing Page, Personal Portfolio, To-Do App
    │
-   └── 🏢  AtomProd  ← Current              — July 2026 – October 2026
-            Frontend Developer Intern — Live product UI development
+   └── 🏢  AtomProd  ← Currently Interning  — July 2026 – October 2026
+            Frontend Developer Intern
+            Live product UI development, component-based frontend work
 ```
 
 ---
@@ -258,8 +326,66 @@ React (Basic) ██████████░░░░░░░░░░  50%
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python%20Certificate-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity%20Course-Certified-FF6B6B?style=for-the-badge&logo=shield&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity%20Course-Certified-FF6B6B?style=for-the-badge&logoColor=white)
 ![MLoops](https://img.shields.io/badge/MLoops%20Program-Completed-6E57F7?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Coding Activity
+
+<div align="center">
+
+| 🗂️ Metric | 📈 Count |
+|:---|:---:|
+| 🚀 Projects Built | 13+ |
+| 💼 Internships Completed | 4 |
+| 🌐 Live Deployments (GitHub Pages) | 13+ |
+| 🎓 B.Tech CGPA | 8+ |
+| 🏅 Certifications | 3 |
+| ⌨️ Languages Known | HTML · CSS · JS |
+| 📚 Currently Learning | React · Tailwind · Node.js |
+
+</div>
+
+---
+
+## 🌱 My Dev Journey
+
+```
+2025  →  Started B.Tech CSE at Modi Institute of Technology, Kota
+          Learned HTML & CSS from scratch
+          Built first project: Static Landing Page
+
+2026  →  Learned JavaScript — DOM, Events, APIs, LocalStorage
+          Built 13+ projects including Hotel System, ERP, Job Portal, LMS
+          Completed 4 internships across 4 companies
+          Currently interning at AtomProd as Frontend Developer
+          Learning React.js & Tailwind CSS
+
+Next  →  Master React.js + Node.js
+          Contribute to Open Source
+          Build Full-Stack Projects
+          Land a Full-Time Frontend Role 🚀
+```
+
+---
+
+## 💡 What I Build
+
+<div align="center">
+
+| 🏷️ Category | 🛠️ Projects |
+|:---|:---|
+| 🏨 Booking Systems | Hotel Booking, Event Ticket Booking |
+| 💼 Portals | Job Portal (HireStream), College ERP |
+| 🎓 Education | LearnPro LMS, Quiz App |
+| 🎵 Entertainment | Aurea Music Player, Rock Paper Scissors |
+| 💰 Finance | FinTrack Expense Tracker |
+| 🖼️ Media | Advanced Image Gallery |
+| 🕐 Utilities | Smart Clock, Mini Code Editor, Typing Speed Tester |
+| 🌐 Clones & UI | Amazon Clone, Personal Portfolio, To-Do App |
 
 </div>
 
