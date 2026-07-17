@@ -33,8 +33,6 @@
 
 ---
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ## 🧑‍💻 About Me
 
 ```javascript
@@ -60,6 +58,10 @@ const samir = {
 };
 ```
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+</div>
+
 <br/>
 
 I'm a **Front-End Developer** and **B.Tech CSE student** from Rawatbhata, Rajasthan, passionate about building clean, responsive, and visually rich web experiences. I started my coding journey in **2025** and within just one year, I've shipped **13 projects** — ranging from a full **5-star Hotel Booking System** and a **Job Portal** to an **ERP System**, **LMS**, **Music Player**, and a **Smart Clock with Canvas API** — all built with pure HTML, CSS & JavaScript.
@@ -68,7 +70,12 @@ I've completed **4 internships** at TechNova, Saiket Systems, Sysslan IT Solutio
 
 My goal is to master **React.js**, deepen my JavaScript skills, and grow into a **complete Full-Stack Developer**. When I'm not coding, I'm exploring new UI designs, building side projects, or finding ways to make the web more beautiful. 🌐
 
-<br clear="right"/>
+- 🎓 **B.Tech CSE** at Modi Institute of Technology, Kota (CGPA: 8+)
+- 💼 **4 Internships** — TechNova · Saiket Systems · Sysslan IT · AtomProd
+- 🚀 Built **13 Projects** — all live on GitHub Pages
+- 🎯 Goal: Master **React.js** → become a Full-Stack Dev
+- 📍 From **Rawatbhata, Rajasthan** with ❤️
+- ⚡ Fun fact: Started coding in **2025** & shipped **13 projects** in 1 year!
 
 ---
 
@@ -90,6 +97,8 @@ My goal is to master **React.js**, deepen my JavaScript skills, and grow into a 
 ![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge&logoColor=white)
 ![CSS Grid](https://img.shields.io/badge/CSS%20Grid-FF6B6B?style=for-the-badge&logoColor=white)
 ![Glassmorphism](https://img.shields.io/badge/Glassmorphism-00C9FF?style=for-the-badge&logoColor=white)
+![Dark UI](https://img.shields.io/badge/Dark%20UI%20Design-1a1a2e?style=for-the-badge&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Basics-F7DF1E?style=for-the-badge&logoColor=black)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -98,6 +107,8 @@ My goal is to master **React.js**, deepen my JavaScript skills, and grow into a 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🌐 Browser & Web APIs
 ![DOM API](https://img.shields.io/badge/DOM%20API-6E57F7?style=for-the-badge&logoColor=white)
@@ -106,12 +117,15 @@ My goal is to master **React.js**, deepen my JavaScript skills, and grow into a 
 ![LocalStorage](https://img.shields.io/badge/LocalStorage-F7DF1E?style=for-the-badge&logoColor=black)
 ![Fetch API](https://img.shields.io/badge/Fetch%20API-20BEFF?style=for-the-badge&logoColor=white)
 ![HTML5 Video](https://img.shields.io/badge/HTML5%20Video%20API-E34F26?style=for-the-badge&logoColor=white)
+![IntersectionObserver](https://img.shields.io/badge/IntersectionObserver-8B5CF6?style=for-the-badge&logoColor=white)
+![requestAnimationFrame](https://img.shields.io/badge/requestAnimationFrame-10B981?style=for-the-badge&logoColor=white)
 
 ### 📚 Currently Learning
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 📊 Skill Progress
 ```
@@ -264,7 +278,7 @@ React (Learning)   ██████████░░░░░░░░░░ 
 <td width="50%">
 
 ### 💻 [Mini Code Editor](https://samir-frontend.github.io/mini-code-editor/)
-> VS Code-style in-browser code editor with real-time HTML/CSS/JS output preview.
+> VS Code-style in-browser editor with real-time HTML/CSS/JS output preview.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -275,7 +289,7 @@ React (Learning)   ██████████░░░░░░░░░░ 
 <tr>
 <td width="50%">
 
-### 🎟️ [Event Ticket Booking System](https://samir-frontend.github.io/Event-Ticket-Booking-system/)
+### 🎟️ [Event Ticket Booking](https://samir-frontend.github.io/Event-Ticket-Booking-system/)
 > Fully responsive ticket booking — built during Sysslan IT internship.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -333,7 +347,7 @@ React (Learning)   ██████████░░░░░░░░░░ 
 
 ---
 
-## 📊 Coding Activity
+## 📊 Coding Stats at a Glance
 
 <div align="center">
 
@@ -358,10 +372,10 @@ React (Learning)   ██████████░░░░░░░░░░ 
           Learned HTML & CSS from scratch
           Built first project: Static Landing Page
 
-2026  →  Learned JavaScript — DOM, Events, APIs, LocalStorage
-          Built 13+ projects including Hotel System, ERP, Job Portal, LMS
+2026  →  Learned JavaScript — DOM, Events, APIs, LocalStorage, Canvas
+          Built 13+ projects — Hotel System, ERP, Job Portal, LMS & more
           Completed 4 internships across 4 companies
-          Currently interning at AtomProd as Frontend Developer
+          Currently interning at AtomProd as Frontend Developer Intern
           Learning React.js & Tailwind CSS
 
 Next  →  Master React.js + Node.js
