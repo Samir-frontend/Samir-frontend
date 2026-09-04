@@ -14,7 +14,7 @@
 <a href="mailto:samirshiekh0808@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://samir-frontend.github.io/Personal-Portfolio/">
+<a href="https://samir-portfolio-mu.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 <a href="https://github.com/Samir-frontend">
