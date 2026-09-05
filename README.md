@@ -413,7 +413,7 @@ Next  →  Master React.js + Node.js
 
 <br/>
 
-**📍 Rawatbhata, Rajasthan, India** &nbsp;|&nbsp; **📧 samirshiekh0808@gmail.com** &nbsp;|&nbsp; **🌐 [Portfolio](https://samir-frontend.github.io/Personal-Portfolio/)**
+**📍 Rawatbhata, Rajasthan, India** &nbsp;|&nbsp; **📧 samirshiekh0808@gmail.com** &nbsp;|&nbsp; **🌐 [Portfolio](https://samir-portfolio-mu.vercel.app/)**
 
 <br/>
 
@@ -421,7 +421,7 @@ Next  →  Master React.js + Node.js
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samirshiekh0808@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://samir-frontend.github.io/Personal-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://samir-portfolio-mu.vercel.app/)
 
 </div>
 
